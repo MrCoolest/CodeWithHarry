@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Pract04",
+            "request": "launch",
+            "mainClass": "Pract04",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dinesh",
+            "request": "launch",
+            "mainClass": "Dinesh",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch Decla",
+            "request": "launch",
+            "mainClass": "Decla",
+            "projectName": "Java Tutorial_607c6f47"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java Tutorial_607c6f47"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sw",
+            "request": "launch",
+            "mainClass": "Sw",
+            "projectName": "Java Tutorial_607c6f47"
+        },
+        {
+            "type": "java",
+            "name": "Launch Each",
+            "request": "launch",
+            "mainClass": "Each",
+            "projectName": "Java Tutorial_607c6f47"
+        },
+        {
+            "type": "java",
+            "name": "Launch Company_main",
+            "request": "launch",
+            "mainClass": "Company_main",
+            "projectName": "Java Tutorial_607c6f47"
+        },
+        {
+            "type": "java",
+            "name": "Launch Addition",
+            "request": "launch",
+            "mainClass": "Addition",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddMatrics",
+            "request": "launch",
+            "mainClass": "AddMatrics",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dine",
+            "request": "launch",
+            "mainClass": "Dine",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestAbstraction1",
+            "request": "launch",
+            "mainClass": "TestAbstraction1",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryAddition",
+            "request": "launch",
+            "mainClass": "BinaryAddition",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sw",
+            "request": "launch",
+            "mainClass": "Sw",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch Switchs",
+            "request": "launch",
+            "mainClass": "Switchs",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch logical",
+            "request": "launch",
+            "mainClass": "logical",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conditoinals",
+            "request": "launch",
+            "mainClass": "Conditoinals",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch Form",
+            "request": "launch",
+            "mainClass": "Form",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch Detect",
+            "request": "launch",
+            "mainClass": "Detect",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usrrep",
+            "request": "launch",
+            "mainClass": "Usrrep",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rep",
+            "request": "launch",
+            "mainClass": "Rep",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch Convert",
+            "request": "launch",
+            "mainClass": "Convert",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch newSt",
+            "request": "launch",
+            "mainClass": "newSt",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch St",
+            "request": "launch",
+            "mainClass": "St",
+            "projectName": "Java Tutorial_581bd545"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserTable",
+            "request": "launch",
+            "mainClass": "UserTable",
+            "projectName": "Java Tutorial_581bd545"
+        }
+    ]
+}
